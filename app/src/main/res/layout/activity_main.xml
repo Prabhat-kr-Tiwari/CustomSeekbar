@@ -74,7 +74,7 @@
           tools:layout_editor_absoluteX="1dp"
           tools:layout_editor_absoluteY="146dp" />
 
-   <com.example.progressbar.ArcSeekBar
+   <com.example.progressbar.ArcSeekBar2
        android:id="@+id/arcSeekBar"
        android:layout_width="200dp"
        android:layout_height="200dp"
